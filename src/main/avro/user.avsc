@@ -3,7 +3,13 @@
   "name": "User",
   "namespace": "com.example.avro",
   "fields": [
-    {"name": "name", "type": "string"},
-    {"name": "age", "type": "int"}
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "age",
+      "type": "int"
+    }
   ]
 }
